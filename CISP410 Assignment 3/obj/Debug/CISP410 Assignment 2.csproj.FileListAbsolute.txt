@@ -1,0 +1,16 @@
+C:\Users\klevalley2\Source\Repos\MyFirstProject\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\CISP410 Assignment 2.exe.config
+C:\Users\klevalley2\Source\Repos\MyFirstProject\CISP410 Assignment 2\CISP410 Assignment 2\obj\Debug\CISP410 Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\klevalley2\Source\Repos\MyFirstProject\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\CISP410 Assignment 2.exe
+C:\Users\klevalley2\Source\Repos\MyFirstProject\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\CISP410 Assignment 2.pdb
+C:\Users\klevalley2\Source\Repos\MyFirstProject\CISP410 Assignment 2\CISP410 Assignment 2\obj\Debug\CISP410 Assignment 2.exe
+C:\Users\klevalley2\Source\Repos\MyFirstProject\CISP410 Assignment 2\CISP410 Assignment 2\obj\Debug\CISP410 Assignment 2.pdb
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\CISP410 Assignment 2.exe.config
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\obj\Debug\CISP410 Assignment 2.exe
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\obj\Debug\CISP410 Assignment 2.pdb
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\CISP410 Assignment 2.exe
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\CISP410 Assignment 2.pdb
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\obj\Debug\CISP410 Assignment 2.csprojResolveAssemblyReference.cache
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\EntityFramework.dll
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\EntityFramework.xml
+C:\Users\klevalley2\Documents\Visual Studio 2015\Projects\CISP410 Assignment 2\CISP410 Assignment 2\bin\Debug\EntityFramework.SqlServer.xml

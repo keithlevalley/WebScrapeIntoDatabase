@@ -1,0 +1,6 @@
+<?xml version="1.0"?> 
+<LogFiles> 
+  <LogFile type="Information" DataFlow="NA" Date="3/10/2017 9:02:51 AM"> 
+    <Message>Log File Created</Message> 
+  </LogFile> 
+<LogFile Date="3/10/2017 9:02:51 AM" DataFlow="From DataFile" Type="Information"><Message>Data File used for Transaction</Message></LogFile><LogFile Date="3/10/2017 9:02:51 AM" DataFlow="To Message queue" Type="Information"><Message>Data sent to Message queue</Message></LogFile><LogFile Date="3/10/2017 9:03:15 AM" DataFlow="From Website" Type="Information"><Message>Data pulled from website</Message></LogFile><LogFile Date="3/10/2017 9:03:15 AM" DataFlow="To Message queue" Type="Information"><Message>Data sent to Message queue</Message></LogFile><LogFile Date="3/10/2017 9:06:55 AM" DataFlow="From DataFile" Type="Information"><Message>Data File used for Transaction</Message></LogFile><LogFile Date="3/10/2017 9:06:55 AM" DataFlow="To Message queue" Type="Information"><Message>Data sent to Message queue</Message></LogFile><LogFile Date="3/10/2017 9:07:09 AM" DataFlow="From Website" Type="Information"><Message>Data pulled from website</Message></LogFile><LogFile Date="3/10/2017 9:07:09 AM" DataFlow="To Message queue" Type="Information"><Message>Data sent to Message queue</Message></LogFile></LogFiles>
